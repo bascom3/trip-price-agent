@@ -1,0 +1,12 @@
+{
+  "origin": "SFO",
+  "destination": "BCN",
+  "depart": "2026-12-18",
+  "return": "2026-12-31",
+  "travelers": 4,
+  "cabin": "Economy",
+  "maxStops": "1 stop max",
+  "hotelStyle": "Mid-range",
+  "rentalCar": true,
+  "savedAt": "2026-09-11T00:00:00Z"
+}

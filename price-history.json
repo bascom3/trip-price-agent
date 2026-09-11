@@ -1,0 +1,28 @@
+{
+  "runs": [
+    {
+      "timestamp": "2026-09-11",
+      "route": { "origin": "SFO", "destination": "BCN" },
+      "dates": { "depart": "2026-12-18", "return": "2026-12-31" },
+      "party": { "travelers": 4, "cabin": "Economy", "maxStops": "1 stop max" },
+      "hotelStyle": "Mid-range",
+      "rentalCar": true,
+      "cheapest": {
+        "flightTotal": 6355,
+        "flightPerPerson": 1589,
+        "flightAirlines": "Alaska, American",
+        "hotelTotalStay": 2329,
+        "hotelPerNight": 179,
+        "hotelProperty": "Cosmo Apartments Sants",
+        "carTotal": 408,
+        "carPerDay": 31,
+        "carVehicle": "Kia Picanto (Mini)"
+      },
+      "sources": {
+        "flights": "Google Flights",
+        "hotels": "Booking.com",
+        "cars": "Kayak"
+      }
+    }
+  ]
+}
